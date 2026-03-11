@@ -1,0 +1,20 @@
+# Sekrety
+backend/.env
+backend/venv/
+
+# Modele i dane (za duże na GitHub)
+backend/models/
+backend/vectordb/
+backend/uploads/
+backend/assistant.db
+data/pdfs/
+data/panos_training_data.jsonl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+frontend/node_modules/
+frontend/dist/

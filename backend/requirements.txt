@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+anthropic
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+transformers
+PyPDF2
+pypdf
+torch
+pydantic
