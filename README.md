@@ -5,6 +5,8 @@ Aplikacja do porównania dwóch technik AI — **RAG** i **Fine-tuning** — na 
 ---
 
 ## 📸 Demo
+### Screnshoots
+<img width="1886" height="890" alt="image" src="https://github.com/user-attachments/assets/80239900-e33c-44ce-86bf-562d913ba8bd" />
 
 Aplikacja pokazuje odpowiedzi obu modeli obok siebie na to samo pytanie:
 
